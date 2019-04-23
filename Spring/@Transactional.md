@@ -25,11 +25,11 @@
 		...
 		}
 
-ddd
+ㅎㅎㅎㅎ
  - 메소드 뿐 아니라 인터페이스, 클래스에도 선언 가능
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMzk0MDE3XX0=
+eyJoaXN0b3J5IjpbLTE3MTk5NDY3NzcsNjYxMzk0MDE3XX0=
 -->
